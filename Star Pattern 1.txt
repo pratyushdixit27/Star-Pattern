@@ -1,3 +1,10 @@
+//*
+//**
+//***
+//****
+//*****
+
+
 public class Star           //Printing Star
 {
     public static void main(String[]args){
