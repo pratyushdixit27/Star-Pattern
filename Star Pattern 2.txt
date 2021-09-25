@@ -1,0 +1,14 @@
+public class Star
+{
+public static void main(String[]args)
+{
+    for(int i =0; i<=5; i++){             //For Rows
+        for(int j = 5; j>=i; j--)        //For Column
+        {
+            System.out.print("*");
+        }
+        System.out.println();
+
+         }
+    }
+}
